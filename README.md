@@ -16,7 +16,7 @@ This is a fully functional e-commerce web application built using core Java tech
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-web-app.git
+git clone https://github.com/Goutham-H-A/Electronics-Store.git
 cd ecommerce-web-app
 ```
 
@@ -25,7 +25,7 @@ cd ecommerce-web-app
 1. **Create a MySQL database:**
 
    ```sql
-   CREATE DATABASE ecommerce;
+   CREATE DATABASE electronicsstore;
    ```
 
 2. **Import the database schema:**
@@ -38,10 +38,10 @@ Update the database connection settings in `src/main/resources/db.properties` wi
 
 ### Step 4: Build the Project
 
-Use Maven to build the project:
-
+Use Eclipse IDE to build the project:
+install Eclipse IDE for Java EE Developers
 ```bash
-mvn clean install
+install Eclipse from https://www.eclipse.org/downloads/packages/installer
 ```
 
 ### Step 5: Deploy to Servlet Container
@@ -53,21 +53,17 @@ Deploy the generated WAR file (`target/ecommerce-web-app.war`) to your servlet c
 Start your servlet container and access the application via:
 
 ```
-http://localhost:8080/ecommerce-web-app
+http://localhost:8080/Electronics-Store
 ```
 
 ## Usage
 
 - **User Registration/Login:** Register a new account or log in with existing credentials.
-- **Browse Products:** Browse, search, and filter products.
 - **Shopping Cart:** Add products to the cart and proceed to checkout.
 - **Order Management:** View order history and current order status.
-- **Admin Functions:** Manage products, orders, and user accounts via the admin panel.
+- **Admin Functions:** Add new product,Manage products, orders, and user accounts via the admin panel.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
-For any questions or support, please contact [your-email@example.com].
+For any questions or support, please contact [gouthamubaley15@gmail.com].
