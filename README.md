@@ -30,7 +30,7 @@ cd Electronics-Store
 
 2. **Import the database schema:**
 
-   Import the provided SQL script (`ecommerce.sql`) into the `ecommerce` database.
+   Import the provided SQL script (`electronicsstore.sql`) into the `electronicsstore` database.
 
 ### Step 3: Configure Database Connection
 
