@@ -17,7 +17,7 @@ This is a fully functional e-commerce web application built using core Java tech
 
 ```bash
 git clone https://github.com/Goutham-H-A/Electronics-Store.git
-cd ecommerce-web-app
+cd Electronics-Store
 ```
 
 ### Step 2: Set Up the Database
